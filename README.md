@@ -3,8 +3,8 @@
 This is a team project for CAP 4053 (AI for Game Programming).
 
 Team Members:
-Christian Phillips
-Baldwin Suen
+Christian Phillips,
+Baldwin Suen,
 Andres Santamaria
 
 Abstract:
