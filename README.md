@@ -10,9 +10,6 @@ Andres Santamaria
 Abstract:
 Player explores a dungeon with the help of some friendly orbs. There are enemies to fight and gold to collect.  Will the player make it out of the dungeon alive?
 
-Story:
-TODO:
-
 Controls:
 TODO:  
 * arrow keys or WSAD for movement
@@ -23,3 +20,7 @@ TODO:
 
 Installation and Setup:
 TODO:
+
+
+Resources:
+* acquired sprite sheets from Spriters-Resource.com uploaded by users ... 
