@@ -10,6 +10,13 @@
 ## Abstract:
 Help Brother Monk fight his way through the Labyrinth in search of his friends. As Brother Monk saves his fellow monks, they will bless him with upgrades to his unique Orb powers. Use the Orbs and your wit to free your companions and defeat monsters!
 
+
+## Game Inspiration
+* The Binding of Isaac
+* Enter the Gungeon
+* Hotline Miami
+* Call of Duty Zombies
+
 ## Controls:
 TODO:  
 * arrow keys or WSAD for movement
