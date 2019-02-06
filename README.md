@@ -8,7 +8,7 @@
 * Andres Santamaria
 
 ## Abstract:
-Player explores a dungeon with the help of some friendly orbs. There are enemies to fight and gold to collect.  Will the player make it out of the dungeon alive?
+Help Brother Monk fight his way through the Labyrinth in search of his friends. As Brother Monk saves his fellow monks, they will bless him with upgrades to his unique Orb powers. Use the Orbs and your wit to free your companions and defeat monsters!
 
 ## Controls:
 TODO:  
@@ -18,9 +18,10 @@ TODO:
 * 'p' to puase/restart game
 * 'esc' to quit (allows save first)
 
-Installation and Setup:
+## Installation and Setup:
 TODO:
 
 
-Resources:
+## Resources:
 * acquired sprite sheets from Spriters-Resource.com uploaded by users CrimsonPenguin ...
+* this list will be updated as new sprite assets are used / created
