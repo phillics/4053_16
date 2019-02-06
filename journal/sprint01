@@ -5,9 +5,31 @@ Sunday 2-3 to Saturday 2-9
     Created GitHub repository
     
 2-5:
-    Finished presentation and discussed ideas on how the player will interact with the game and what they will see.
+    Finished presentation and discussed ideas on how the player will interact with the game and what they will see as well as editted 
+    our goals for the first playable.
     
-    These ideas include the reload system for the orbs, how the map should be rendered, the I/O devices used in the game,
-    the type of configurations for the orbs, as well as editted out goals for a first playable.
+    These ideas include the: 
+        reload system for the orbs
+        how the map should be rendered
+        the I/O devices used in the game
+        the type of configurations for the orbs
     
-    Reload System : 
+    Our new goals for a first playable:
+        Map is rendered on screen
+        Avatar responds to player input (moves and shoots)
+        Enemies can attack player (collision)
+        Shield mechanic neutralizes enemy hitbox collision within certain distance from shield
+
+    
+    Reload System - Player should not run out of ammo while shooting unless their intent is to do high damages. In which case, ammo will
+                    be depleted and restored on a fixed cooldown. (0.5 seconds)
+    
+    Map Rendering - Maps will be made static instead of randomly generated.
+    
+    I/O Devices - Player will use a keyboard and mouse to play our game. WASD keys will be used to navigate through the map while
+                  the mouse will be used to determine the direction the player is facing.
+                    
+    Variety of Orb Configurations - All orbs will possess some elemental powers such as fire, ice, and electricity. However, while 
+                                    on defense, the player will be able to make a shield that can protect them from attacks. This shield 
+                                    will be able to rotate 360 degree around the player. 
+                  
