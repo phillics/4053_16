@@ -31,6 +31,7 @@ TODO:
 
 ## Resources:
 
+
 ![Potential Monk Sprite](sprites/deathmonk.png)
 
 * acquired sprite sheets from Spriters-Resource.com uploaded by users CrimsonPenguin ...
