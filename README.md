@@ -15,7 +15,7 @@ TODO:
 * arrow keys or WSAD for movement
 * keys to cycle Orb modes (Attack, Defend, Recall, Explore)
 * mouse to control Orb movement: click to direct orbs to a location, drag to have orbs follow a path.
-* 'p' to puase/restart game
+* 'p' to pause/restart game
 * 'esc' to quit (allows save first)
 
 ## Installation and Setup:
