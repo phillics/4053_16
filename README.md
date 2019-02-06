@@ -13,9 +13,15 @@ Help Brother Monk fight his way through the Labyrinth in search of his friends. 
 
 ## Game Inspiration
 * The Binding of Isaac
+![](md_images/binding_of_isaac.jpg)
+* Mario Kart
+![](md_images/mario_kart_triple_green_shells.png)
 * Enter the Gungeon
+![](md_images/ETG.jpg)
+* Overwatch
+![](md_images/zenyatta-gameplay.jpg)
 * Hotline Miami
-* Call of Duty Zombies
+![](md_images/hotline.png)
 
 ## Controls:
 TODO:  
