@@ -24,8 +24,7 @@ TODO:
 
 ## Resources:
 
-![Sample Sprite Atlas]
-(https://github.com/phillics/4053_16/tree/master/sprites/deathmonk.png)
+![Potential Monk Sprite](4053_16/sprites/deathmonk.png)
 
 * acquired sprite sheets from Spriters-Resource.com uploaded by users CrimsonPenguin ...
 * this list will be updated as new sprite assets are used / created
