@@ -12,16 +12,34 @@ Help Brother Monk fight his way through the Labyrinth in search of his friends. 
 
 
 ## Game Inspiration
-* The Binding of Isaac
-![](md_images/binding_of_isaac.jpg)
-* Mario Kart
-![](md_images/mario_kart_triple_green_shells.png)
-* Enter the Gungeon
-![](md_images/ETG.jpg)
-* Overwatch
-![](md_images/zenyatta-gameplay.jpg)
-* Hotline Miami
-![](md_images/hotline.png)
+
+
+
+### The Binding of Isaac
+<img align="left" width="300" height="300" src="https://github.com/phillics/4053_16/blob/master/md_images/binding_of_issac.jpg">
+<p>
+  <br><br><br><br><br><br>
+  Our player character, Brother Monk, moves around a 2D level similarly to Isaac in *The Binding of Isaac*.
+  <br><br><br><br><br><br>
+<p/>
+
+### Hotline Miami
+<img align="left" width="300" height="300" src="https://github.com/phillics/4053_16/blob/master/md_images/hotline.png">
+<p>
+  <br><br><br><br><br><br>
+  The game has a top down 2D perspective, and relies on the user's mouse input to aim Brother Monk's Orbs at enemies.
+  <br><br><br><br><br><br>
+<p/>
+
+### Enter the Gungeon
+<img align="left" width="300" height="300" src="https://github.com/phillics/4053_16/blob/master/md_images/ETG.jpg">
+<p>
+  <br><br><br><br><br><br>
+  Enter the Gungeon spawns waves of enemies to attack the player when they enter new rooms. Similarly, Brother Monk will encounter waves of enemies as he enter new rooms, or 'levels'.
+  <br><br><br><br><br><br>
+<p/>
+  
+
 
 ## Controls:
 TODO:  
