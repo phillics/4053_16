@@ -1,16 +1,16 @@
-# 4053_16
+# Brother Monk
 
-This is a team project for CAP 4053 (AI for Game Programming).
 
-Team Members:
-Christian Phillips,
-Baldwin Suen,
-Andres Santamaria
 
-Abstract:
+## Team Members:
+* Christian Phillips,
+* Baldwin Suen,
+* Andres Santamaria
+
+## Abstract:
 Player explores a dungeon with the help of some friendly orbs. There are enemies to fight and gold to collect.  Will the player make it out of the dungeon alive?
 
-Controls:
+## Controls:
 TODO:  
 * arrow keys or WSAD for movement
 * keys to cycle Orb modes (Attack, Defend, Recall, Explore)
