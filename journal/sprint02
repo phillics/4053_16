@@ -1,1 +1,19 @@
+Sunday 2-10 to Sunday 2-17
 
+2-13:
+      Created sprite sheets and started working on combining different png images to create animations for how Brother Monk
+      will walk. Searched for enemy sprites and projectile sprites.
+      
+2-17:
+      * Worked on mechanics of gameplay. 
+      
+         - Figured out a way to create spawn points for enemies as well as how to shoot
+           projectiles from a character sprite.
+           (Need to implement Brother monk sprite, default circle sprite being used currently.)
+        
+         - Figured out hit detection, player loses health when enemy collides with player.
+      
+         - Simple AI implemented as well, enemies chase player around screen.
+      
+         - Player is also able to shoot at enemies, making them disappear from the screen, 
+           both the enemy and projectile are removed from the screen.
