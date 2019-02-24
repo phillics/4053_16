@@ -1,1 +1,10 @@
+Monday 2-18 to Sunday 2-24
 
+2-21:
+     Implemented sprites with walking scripts. Ran into problems with getting the player to work with the shooting scripts 
+     while adding the animations. Got enemy fighting animations working along with their walking animations however both the 
+     character and the enemy walking animations are not perfected (seem to be gliding along the map however they know which 
+     way to turn based on script). Found better sprites for orbs and edited elemental orbs.
+
+2-23:
+     Working on start screen and trying to get the projectiles to shoot past the mouse. 
