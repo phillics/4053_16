@@ -6,3 +6,5 @@ Monday 2-25 to Sunday 3-3
      Projectile shooting polished. Projectiles are now able to move past the mouse position and leaves the camera view. Need to 
      add rigidbodies to the ends of the camera view to delete projectiles from scene once they exit the camera view.
      Working on health bar and finishing up presenation for first playable on 2-27. 
+     
+     Figured out how to delete objects as they leave the camera view. 
