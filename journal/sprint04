@@ -1,0 +1,8 @@
+Monday 2-25 to Sunday 3-3
+
+2-26: 
+     Finished start screen with working play button.
+     Button takes player to next scene where they are able to play the game.
+     Projectile shooting polished. Projectiles are now able to move past the mouse position and leaves the camera view. Need to 
+     add rigidbodies to the ends of the camera view to delete projectiles from scene once they exit the camera view.
+     Working on health bar and finishing up presenation for first playable on 2-27. 
