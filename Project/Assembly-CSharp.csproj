@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Enemy.cs" />
      <Compile Include="Assets\Scripts\EnemyControllerScript.cs" />
+     <Compile Include="Assets\Scripts\OrbRotate.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\PlayerMobility.cs" />
      <Compile Include="Assets\Scripts\Projectile.cs" />
