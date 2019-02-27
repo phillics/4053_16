@@ -29,7 +29,7 @@ public class Enemy : MonoBehaviour
         {
             player.health--;
             Debug.Log(player.health);
-            Destroy(gameObject);
+            //Destroy(gameObject);
         }
         else if (other.CompareTag("Projectile"))
         {

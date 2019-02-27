@@ -35,4 +35,11 @@ public class EnemyControllerScript : MonoBehaviour
         theScale.x *= -1;
         transform.localScale = theScale;
     }
+
+    void OnTriggerEnter2D(Collider2D col) {
+        if (col.CompareTag("Player"))
+        {
+            a.SetTrigger("Attack");
+        }
+    }
 }
