@@ -1,0 +1,15 @@
+Monday 3-4 to Sunday 3-10
+
+*one month til final project due*
+
+3-8: 
+    Outline for tasks that need to be accomplished or repolished
+    
+    - approach our shooting with a new perspective
+        * recycling game object that are being made when shooting happens
+    - implement health bar
+    - polish boss AI that will actively try to shoot and deplete your health bar as well as avoid 70% of the 
+      shots that you shoot at it 
+        * maybe implement new type of shooting (homing projectiles, shotgun spread, etc.)
+    - limit ammo capacity, currently player can shoot endlessly
+        * this is making the game lag due to the amount of gameobjects being created without recycling and reusing them
