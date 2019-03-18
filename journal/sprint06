@@ -3,7 +3,7 @@ Monday 3-11 to Sunday 3-17
 3-17:
      Outline of tasks I have attempted over spring break
      * polishing projectiles, meaning recycling game objects instead of creating new ones everytime a projectile is called.
-       this can elimniate the lag on our game when animations are implemented. (creating those objects and setting booleans to them whether
-       or not they have been unlocked)
+       this can elimniate the lag on our game when animations are implemented. (creating those objects and setting booleans to 
+       them whether or not they have been unlocked)
      * health bar, may change to health points (3 hearts rather a full bar)
      * move project to Unity Cloud to facilitate cooperative work and standardize project builds. 
