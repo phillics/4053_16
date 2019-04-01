@@ -1,2 +1,12 @@
-Monday 3-25 to Sunday 3-31
+Monday 3-25 to Monday 4-1
+
+3-31:
+     * game object recycler implemented and working
+     * full cloud integration of projects between all members
+     * updated scripts for scene changes and player movement
+        - game can change based on parameters such as the amount of enemies killed etc. 
+     * xbox controller implementation was worked on, but not fully working
+        - idea is to map certains keys on the keyboard to buttons on the controller, however
+          we need to create functionalities for keys on the keyboard
+        - pause menu mapped to the p button 
 
