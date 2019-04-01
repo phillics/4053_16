@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Projectile
   layers:
   - Default
   - TransparentFX
@@ -43,4 +44,10 @@ TagManager:
     locked: 0
   - name: Units
     uniqueID: 3955987587
+    locked: 0
+  - name: Background
+    uniqueID: 3047446763
+    locked: 0
+  - name: Player
+    uniqueID: 3101450099
     locked: 0

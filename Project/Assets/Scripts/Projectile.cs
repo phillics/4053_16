@@ -4,20 +4,28 @@ using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
-    private Vector2 target;
     public float speed;
+    public Vector3 moveDirection;
+    private Animator anim;
 
-    void Start()
+    public void Start()
     {
-        target = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        anim = GetComponent<Animator>();
+        anim.SetFloat("orbType", 9f);
+        anim.Play("Idle");
+        moveDirection = (Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position);
+        moveDirection.z = 0;
+        moveDirection.Normalize();
     }
 
     void Update()
     {
-        transform.position = Vector2.MoveTowards(transform.position, target, speed * Time.deltaTime);
-        if (Vector2.Distance(transform.position, target) < 0.2f)
-        {
-            Destroy(gameObject);
-        }
+        transform.position = transform.position + moveDirection * speed * Time.deltaTime;
+    }
+
+
+    void OnBecameInvisible()
+    {
+        moveDirection = Vector3.zero;
     }
 }

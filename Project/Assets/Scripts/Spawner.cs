@@ -19,7 +19,7 @@ public class Spawner : MonoBehaviour
         if (timeBtwSpawns <= 0)
         {
             int randPos = Random.Range(0, spawnSpots.Length); // if crashes, add -1 to spawnspots.length
-            Instantiate(enemy, spawnSpots[randPos].position, Quaternion.identity);
+            //Instantiate(enemy, spawnSpots[randPos].position, Quaternion.identity);
             timeBtwSpawns = startTimeBtwSpawns;
         }
         else
