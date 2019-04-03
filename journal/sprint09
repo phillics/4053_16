@@ -1,0 +1,14 @@
+Tuesday 4-2 to Sunday 4-7
+
+4-2:
+    * Health HUD displays current health. If player is attacked or collides with an enemy they lose a heart.
+      Upon dying the player is brought back to the main menu.
+    * Working pause menu. Player can press 'p' to pause the game. Upon loading that UI, the player can choose q of 4 options 
+      from the menu - Resume, Restart, Main Menu, or Quit. 
+      - Resume: resume the game
+      - Restart: restart the current level
+      - Main Menu: return to the main menu
+      - Quit: close the application
+    * music track implemented
+    * circle colliders editted for hurt boxes that make more sense on player and enemy
+    
