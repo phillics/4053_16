@@ -1,0 +1,13 @@
+Monday 4-8 to Sunday 4-14
+
+4-14:
+     * focusing on game optimization and working out bugs that were highligheted during our game testing day
+       - the bugs that needed to be fixed
+          1. player losing health when shooting on the left side of the screen
+             need to look into where the collision is happening on the screen even though the player is not being hit. Could be 
+             due to the fact that the projectile is going through the health bar.
+          2: music does not loop throughout the game
+          3: enemy and player colliders do not look natural. coming from the top of the screen the 2.5D motion of the game makes the 
+             hitboxes bigger than they actually are.
+       - these were some of the main bugs that we were focusing on.
+          
