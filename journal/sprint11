@@ -1,1 +1,8 @@
 Monday 4-15 to  Sunday 4-21
+
+
+Edit CameraController
+    * Change Update to LateUpdate
+    * Make sure player has finished moving before calculating new camera position.
+
+Edit Enemy Collider to reduce overlapping
