@@ -11,4 +11,5 @@ Tuesday 4-2 to Sunday 4-7
       - Quit: close the application
     * music track implemented
     * circle colliders editted for hurt boxes that make more sense on player and enemy
-    
+    * Create SwarmController
+      - Reduce repeated calculations (swarm center and swarm velocity) by moving them to their own class
