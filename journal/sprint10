@@ -11,3 +11,7 @@ Monday 4-8 to Sunday 4-14
              hitboxes bigger than they actually are.
        - these were some of the main bugs that we were focusing on.
           
+     * Create CameraController for integration with larger maps
+       - attaches camera to player and allows player to move around larger maps.
+       - only translation, movement is independent of rotation
+
