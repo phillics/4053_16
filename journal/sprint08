@@ -9,4 +9,7 @@ Monday 3-25 to Monday 4-1
         - idea is to map certains keys on the keyboard to buttons on the controller, however
           we need to create functionalities for keys on the keyboard
         - pause menu mapped to the p button 
+     * EnemySteering 
+        - use relative position of player and other enemies to influence motion
+        - Need to adjust relative weights.
 
